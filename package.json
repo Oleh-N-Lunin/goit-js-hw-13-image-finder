@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "animated-scroll-to": "^2.2.0",
+    "basiclightbox": "^5.0.4",
     "handlebars": "^4.7.7",
     "lodash.debounce": "^4.0.8"
   }

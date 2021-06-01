@@ -1,2 +1,3 @@
 import './sass/main.scss';
-import './scripts/search';
+import './scripts/__search';
+import './scripts/newSearch.js'
